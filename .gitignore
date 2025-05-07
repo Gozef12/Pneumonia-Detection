@@ -1,0 +1,10 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific folders
+__MACOSX/
+.DS_Store
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
